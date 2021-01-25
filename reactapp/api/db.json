@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Tural Nabiyev",
+      "department": "Data Science",
+      "salary": "2000",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Aysel Nuriyeva",
+      "department": "Teacher",
+      "salary": "1500"
+    },
+    {
+      "name": "Togrul Jafar",
+      "department": "Computer Science",
+      "salary": "6000",
+      "id": 3
+    },
+    {
+      "name": "Taleh Ferzeliyev",
+      "department": "Back End Developer",
+      "salary": "8000",
+      "id": 4
+    },
+    {
+      "name": "Lale Agayeva",
+      "department": "Huuman Resource",
+      "salary": "3500",
+      "id": 5
+    },
+    {
+      "name": "Laman Jafar",
+      "department": "Acounting",
+      "salary": "",
+      "id": 6
+    }
+  ]
+}

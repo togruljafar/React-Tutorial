@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "unique-1",
+      "name": "Tural Nabiyev",
+      "department": "Data",
+      "salary": "5000"
+    },
+    {
+      "id": "unique-2",
+      "name": "Aysel Nuriyeva",
+      "department": "Teacher",
+      "salary": "1500"
+    },
+    {
+      "id": "unique-3",
+      "name": "Yasar Qarayev",
+      "department": "Saler",
+      "salary": "4000"
+    }
+  ]
+}
